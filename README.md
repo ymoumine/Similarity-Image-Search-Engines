@@ -3,7 +3,7 @@
 # Status
 	1. Java : Completed
 	2. Go : Completed
-	3. Prolog : In Progress
+	3. Prolog : Completed
 	4. Scheme : To Do
 
 # Documentation
