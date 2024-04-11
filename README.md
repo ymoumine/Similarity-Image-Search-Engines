@@ -4,7 +4,7 @@
 	1. Java : Completed
 	2. Go : Completed
 	3. Prolog : Completed
-	4. Scheme : Completed
+	4. Racket : Completed
 
 # Documentation
 Each project folder has the appropriate documentation, explaing the methodology and requirements.
